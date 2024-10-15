@@ -1,7 +1,7 @@
 # Lab0
 
 ## Biểu đồ lớp
-![](https://www.planttext.com/api/plantuml/png/T99DQiCm48NtEiNWLHg8QRTQ1HeQGvRs1GRPM0Es52mfK4hFqYDqqQKNNVGaFa6lK1d_ACQr5aAyDynyUj9l-tqq5Xlhweg92es1YqGX4rGbl37eLuspn26r3QboC6oXDXnLucjAId8ueIq6BITybhIiC_f4XSganc2yin4aGxfuHmMEILarSHnUAers4Fo9_Y-jzQJl7ZZSDEKZBrup3xApVXjRBVp6sIr_nZqJ-ji86N0dPPrDS48-HcUX-nYmT2BfvzuD2yyJFKLmE43q6CVxAAJ5mNJj1yYk_NHiLfV5Coi7yVF5ZeNA-m_m1m00__y30000)
+![](https://www.planttext.com/api/plantuml/png/T99DQiCm48NtEiNWLLf8IBTQb4136yWoli0W6skeFIgML0YbwnwZHoXTQz6p-0IzGcNy8qmQBOJvtdZcwKc_uMTd7RREDxKGgaPhuQXHwGDo1My2-jNWZ2ISN4jS3O8h-Oh25PvFn5h27bqvi8BmGTEopfezbPnhWqbudupaICUeSF8naOicNi9ZRT0D87xH_wMDcVZgHiAheMBqYozvDB9oSHjRBVJMkslwRFU9C9v6wMHt8fVP92NbOqsUkey1QwyE_Tmqp3uJGsjiAKIwgEmkW_KQikrcSvkbt2JOBdo2xiANXtinysNvx5l6ULtuLg2f2nyS_n2xael-QVm1003__mC0)
 
 ## Mô Tả Biểu Đồ Lớp - Hệ Thống Quản Lý Ngân Hàng
 
@@ -46,7 +46,7 @@ Biểu đồ lớp mô tả các thành phần chính trong hệ thống quản 
 - **TaiKhoan** và **GiaoDich**: Một tài khoản có thể có nhiều giao dịch (1 - 0..*).
 
 ## BIểu đồ gói 
-![](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bT1Od9sOdggWfB7mztj2Y4P3tTFp4jN22nzk6jndeBFuRqAVkc75-KfU1nUa9Ukf53DfG04S3tkcOdv2YwPG9rvC3aGY4OI1-e_jk7XxhcP2Yw7T-Qbn-9Gb06o92ppyAeyY8fQBbIR8XxkNWjo3eerIAuCERmWKy4x8nyaW6G7J9i2nBA7kxkJCsAn6k2TSNXXSWR4dzYT0DIzNi47vDvI55Su7rke4Fnmztm590Mut8DLBKwhyOMZWgwk7O4Gm1d267enNO3JP8XU8lsCqmuyfc1n2zPO9DeXjLmEgNafeBGE0000__y30000)
+![](https://www.planttext.com/api/plantuml/png/Z5FDIiD04BxlKmozg8U-G0-bOC12eo06wNNPXkpIP3Sc6R18pvvz0ps8frBF3UAXu7la2Nm5D-bFTfCepYKmizytttmp-Su_Hsb6amoZa92OiZaDVEXT2Ah04KN-A7lmG4072scQGbbmX2-l0bJ2GHdigrLa7DbO5tUF63yzgsjtIAMxyAYOS4NblhBiOkPKtkglIRm3JpXbV4nbS4Gl3SdJ8b-1k_smzLvRRKtEI3N4L25fxEdcPYh1p4YPagVeBWwp_iE7PKlNSI8RxKVDKQj8aNRcxrKhRrlZ5FaQt7ARQBjphcwKWwxmiSkX4D7ZIWQUa7_ihURedCOWwHAPpeM4HAK-EO7B8dyIrQw1QwqGQCLh2cpxmhGfssV98UR5vasIzXNs-yFchWUGbYSnA_9N_M18MWTMOshbJL23iuHqc3Q0yEiT8KjAem-WcjH6cSqic7LEltRA4bm0ApQhM4F8o9UpyjVz0G00__y30000)
 
 ## Mô Tả Biểu Đồ Gói - Hệ Thống Quản Lý Ngân Hàng
 
@@ -80,7 +80,7 @@ Biểu đồ gói mô tả cấu trúc tổng thể của hệ thống quản l�
 
 
 ## Biểu đò ca sử dụng 
-![](https://www.planttext.com/api/plantuml/png/V50xZi8m4ErzYYd35KYnI3Gh8L53cGq6MoIJADX2r2cfg6WtrGeaYXLKIK5XBk8JS0KcJbW-nRgmPppllPbvr-hSMwWWKpgEc0jOToXiUKX1cJt2PNF9SGRello_MaotWZabE-qpEGLlP8eGbB3LR_sO4v6Kn8yE9Hp1wvjZXm6TRb_ebQtoMjgMPmIL1OGDXJcWy1cF5XoyWHDe2P_ImMljzLtwonG9HBRQIhy1ZSrUGsZB7ztEIjMoa4-ZDC2CfpnGBdIyVtPznxpk_123fP0HVtLWthOLvXi5XCqs72ToIYOdAUjHN3j-0m00__y30000)
+![](https://www.planttext.com/api/plantuml/png/f5AzJiCm4Dxz53Uchv0CL6H1IiMKXJ4gBZubSQB4AMBkmC34X9YWOgYer0ccUEZWleYVW5VWuWH2nOJmzDtv-x7F_j3xQQsIIZLvnkeK9LH5pPbhCJyILZyX7EwjVfHNi4IhR-TK7bPKIM7RNHamvfyx1CfivV4cBCqpv8GKfDHuRJfsH2wh75ILa68d1L38ImaPUSFSwWsrXNad3uNoLnOkm8l7xL5wCY4Pb-25vct2W9OVYkQ6eZeJs-ubn5L2ib1qeG7ZMSt1YvpN83X3Hu_9zGw6b5EpBc1czGC6FUd2R1i8RRjfOBZtpBPh_EB7A7jYnKkUA0UTxYz3-XRzPrRZ8U1QOCQF1fVsyEVy69UNk63qzaN9s9Igxazy0W00__y30000)
 
 ## Mô Tả Biểu Đồ Ca Hoạt Động - Quy Trình Đăng Nhập
 
