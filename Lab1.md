@@ -1,13 +1,13 @@
 # Lab1
 
 ## 1. Phân tích kiến trúc
-### Đề xuất Kiến trúc: Tôi chọn kiến trúc "Microservices" cho hệ thống "Payroll System" :
+### Đề xuất Kiến trúc: Tôi chọn kiến trúc "MVC" cho hệ thống "Payroll System" :
 
 ### Các thành phần trong kiến trúc :
-**Lớp Giao Diện Người Dùng (UI):**
+**Model(Mô hình):**
 
-- Ý nghĩa: Tương tác trực tiếp với người dùng thông qua giao diện web hoặc ứng dụng di động.
-- Lý do: Cung cấp trải nghiệm người dùng trực quan và dễ sử dụng, tách biệt khỏi các logic nghiệp vụ.
+- Ý nghĩa: Chứa dữ liệu và logic nghiệp vụ, quản lý thông tin về nhân viên, thanh toán và thời gian làm việc.
+- Lý do: Dễ dàng bảo trì , tái sử dụng, tách biệt khỏi các logic nghiệp vụ.
 
 **Lớp Logic Nghiệp Vụ (Business Logic Layer):**
 
@@ -58,3 +58,6 @@
 **1. User Interface Layer (Presentation Layer):**
 - Nhiệm vụ: Cung cấp giao diện cho người dùng để thực hiện việc xem và xác nhận thông tin thanh toán.
 - Thuộc tính: paymentInfo, userInput, displayMessage
+**2. Business Logic Layer (Payment Service):**
+  - Nhiệm vụ: Xử lý logic liên quan đến việc tính toán tiền lương, áp dụng thuế và phúc lợi.
+-   Thuộc tính: calculateTotal(), applyTax(), generatePayslip()
