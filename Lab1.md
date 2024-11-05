@@ -26,13 +26,13 @@
   **Một số cơ chế cần giải quyết trong hệ thống "Payroll System":**
 
 - **Quản lý nhân viên:** Xử lý các thao tác thêm mới, chỉnh sửa, và xoá nhân viên.
-- 
+  
 - **Quản lý chấm công:** Lưu trữ và xử lý thông tin thẻ chấm công hàng ngày của nhân viên.
-- 
+  
 - **Thanh toán lương:** Xử lý thanh toán lương theo nhiều hình thức khác nhau như thanh toán bằng tiền mặt, chuyển khoản hoặc séc.
-- 
+  
 - **Tính toán lương tự động:** Tự động tính toán tổng lương dựa trên số giờ làm việc, các khoản thưởng/phạt và các khoản khấu trừ.
-- 
+  
 
 ### Danh Sách Cơ Chế : 
 - Quản lý nhân viên (Employee Management)
